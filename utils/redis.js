@@ -1,4 +1,4 @@
-#!/usr/bib/node
+#!/usr/bin/node
 
 /** The `RedisClient` class in JavaScript creates a Redis client,
  *  handles connection events.
